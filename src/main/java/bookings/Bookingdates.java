@@ -3,7 +3,6 @@ package bookings;
 public class Bookingdates {
 
   private String checkin;
-
   private String checkout;
 
   public Bookingdates(String checkin, String checkout) {
